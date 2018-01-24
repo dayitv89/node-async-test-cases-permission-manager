@@ -1,0 +1,16 @@
+{
+	"name": "node-async-test-cases",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"author": "Gaurav D. Sharma",
+	"license": "MIT",
+	"devDependencies": {
+		"chai": "^4.1.2",
+		"chai-as-promised": "^7.1.1",
+		"mocha": "^5.0.0"
+	}
+}
